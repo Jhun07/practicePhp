@@ -10,6 +10,8 @@
 <body>
     <?php 
         echo "<hr><br>this is jeric";
+    echo "<hr><br>this is aldrin";
+    
     ?>
 </body>
 </html>
